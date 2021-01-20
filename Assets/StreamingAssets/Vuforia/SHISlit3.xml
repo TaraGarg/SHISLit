@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tar_harrypotter1" size="0.115000 0.054886" />
+    <ImageTarget name="tar_harrypotter2" size="0.115000 0.043640" />
+    <ImageTarget name="tar_HungerGames" size="0.115000 0.174423" />
+  </Tracking>
+</QCARConfig>

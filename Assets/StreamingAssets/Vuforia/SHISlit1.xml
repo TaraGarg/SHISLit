@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Tar_briefHistoryOfTime" size="0.105000 0.163962" />
+    <ImageTarget name="Tar_keeperofthelostcities" size="0.129000 0.192135" />
+    <ImageTarget name="Tar_WeWereLiars1" size="0.129000 0.196780" />
+    <ImageTarget name="Tar_MagnusChase" size="0.127000 0.051332" />
+    <ImageTarget name="Tar_Naruto" size="0.127000 0.040612" />
+    <ImageTarget name="Tar_JakeRansom" size="0.129000 0.191580" />
+    <ImageTarget name="Tar_EverythingEverything" size="0.129000 0.195143" />
+    <ImageTarget name="Tar_longRoadHome" size="0.115000 0.177443" />
+    <ImageTarget name="Tar_agatha1" size="0.110000 0.060654" />
+    <ImageTarget name="Tar_agatha2" size="0.110000 0.063693" />
+    <ImageTarget name="Tar_Divergent" size="0.099000 0.016272" />
+    <ImageTarget name="Tar_Starcursed" size="0.130000 0.195489" />
+  </Tracking>
+</QCARConfig>
